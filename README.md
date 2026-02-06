@@ -14,5 +14,5 @@ Hyperspectral Anomaly Detection via Cascaded Convolutional Autoencoders with Ada
 }
 ~~~
 
-After unzip the files, run main.py get the results in our paper. 
+After download the files, run main.py get the results in our paper. 
 
