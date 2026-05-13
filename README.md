@@ -1,5 +1,7 @@
 # CAPNet_for_HAD
-Hyperspectral Anomaly Detection via Cascaded Convolutional Autoencoders with Adaptive Pixel-level Attention
+This code is for **Hyperspectral Anomaly Detection via Cascaded Convolutional Autoencoders with Adaptive Pixel-level Attention**
+
+The paper link is **https://doi.org/10.1016/j.eswa.2025.127366**
 
 ~~~
 @article{zhao2025hyperspectral,
